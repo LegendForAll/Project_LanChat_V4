@@ -1,0 +1,10 @@
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerChatRoomBase\bin\Debug\LanMessengerChatRoomBase.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.csprojResolveAssemblyReference.cache
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerChatRoomBase\obj\Debug\LanMessengerChatRoomBase.pdb

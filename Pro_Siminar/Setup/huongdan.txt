@@ -1,0 +1,23 @@
+﻿+ Để chạy khởi động Server:
+   Vào mục "server-program" --> mở file Server.exe
+
++ Để kết nối tới 1 Server:
+   Khởi động chương trình LAN Messenger -->  Mở rộng --> Thiết lập mạng.
+
++ Cần cài đặt .Net Framework 2.0 hoặc mới hơn để có thể chạy ứng dụng này.
+
++ Xem thêm nội dung file help.chm để biết thêm chi tiết! :)
+--------------------------------------------------------------------------------------
+Trường ĐH Công Nghệ Thông Tin - ĐHQG HCM
+Đồ Án Lập Trình Trên Windows
+Lớp: WINP1.B21 
+Giảng Viên: Phạm Thi Vương
+
+● Tên sản phẩm: LAN Messenger
+
+● Phiên bản: 1.0
+
+● Tác giả:
+Ngô Duy Khánh (09520414)
+Nguyễn Trọng Nhân (09520425)
+Văn Phú Hiếu (09520409)

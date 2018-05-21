@@ -1,0 +1,34 @@
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Debug\LanMessengerNotify.dll
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Debug\LanMessengerNotify.pdb
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerNotify\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerNotify\obj\Debug\TrayBalloon.Properties.Resources.resources
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerNotify\obj\Debug\TrayBalloon.TrayBalloonFrm.resources
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerNotify\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerNotify\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerNotify\obj\Debug\LanMessengerNotify.dll
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerNotify\obj\Debug\LanMessengerNotify.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\Debug\LanMessengerNotify.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\Debug\LanMessengerNotify.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerNotify\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerNotify\obj\Debug\TrayBalloon.Properties.Resources.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerNotify\obj\Debug\TrayBalloon.TrayBalloonFrm.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerNotify\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerNotify\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerNotify\obj\Debug\LanMessengerNotify.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerNotify\obj\Debug\LanMessengerNotify.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\Debug\LanMessengerNotify.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\Debug\LanMessengerNotify.pdb
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerNotify\obj\Debug\LanMessengerNotify.csprojResolveAssemblyReference.cache
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerNotify\obj\Debug\TrayBalloon.Properties.Resources.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerNotify\obj\Debug\TrayBalloon.TrayBalloonFrm.resources
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerNotify\obj\Debug\LanMessengerNotify.csproj.GenerateResource.Cache
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerNotify\obj\Debug\LanMessengerNotify.dll
+C:\Users\HoThaiNgoc\Desktop\[Sharecode.vn] Full code ung dung chat lan C#\Lan Messenger\LanMessengerNotify\obj\Debug\LanMessengerNotify.pdb
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\Debug\LanMessengerNotify.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\Debug\LanMessengerNotify.pdb
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerNotify\obj\Debug\LanMessengerNotify.csprojResolveAssemblyReference.cache
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerNotify\obj\Debug\TrayBalloon.Properties.Resources.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerNotify\obj\Debug\TrayBalloon.TrayBalloonFrm.resources
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerNotify\obj\Debug\LanMessengerNotify.csproj.GenerateResource.Cache
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerNotify\obj\Debug\LanMessengerNotify.dll
+C:\Users\HoThaiNgoc\Desktop\Pro_Siminar\Lan Messenger\LanMessengerNotify\obj\Debug\LanMessengerNotify.pdb
